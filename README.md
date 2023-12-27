@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaiKummar
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Asp.Net core api and ReactJs
-- 💞️ I’m looking to collaborate on Machine learning projects
+- 👀 I’m interested in Web development, AI
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on Asp.net projects
 - 📫 How to reach me: saikummar94@gmail.com
 
 <!---
